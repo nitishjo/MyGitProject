@@ -1,12 +1,9 @@
-This is the first statement
+This is my first statement....
+Welcome to Git!!!
 
-Change - 1
 
-Change - 2
-
-Change - 3 || Change - 4
-
-Change - 5 --. idea
-
-CHANGE - 6
-
+Class HelloGit{
+main(){
+sysout("Hello git")
+}
+}
